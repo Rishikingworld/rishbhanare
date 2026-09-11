@@ -1,0 +1,20 @@
+{
+  "auto_publish": false,
+  "default_language": "hi-IN",
+  "platforms": {
+    "youtube": {"enabled": true, "publish": false},
+    "instagram": {"enabled": false, "publish": false},
+    "facebook": {"enabled": false, "publish": false},
+    "sharechat": {"enabled": false, "publish": false},
+    "moj": {"enabled": false, "publish": false},
+    "josh": {"enabled": false, "publish": false},
+    "chingari": {"enabled": false, "publish": false},
+    "roposo": {"enabled": false, "publish": false},
+    "snapchat": {"enabled": false, "publish": false},
+    "linkedin": {"enabled": false, "publish": false},
+    "x": {"enabled": false, "publish": false},
+    "pinterest": {"enabled": false, "publish": false},
+    "telegram": {"enabled": false, "publish": false},
+    "whatsapp_channels": {"enabled": false, "publish": false}
+  }
+}

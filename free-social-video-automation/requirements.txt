@@ -1,0 +1,8 @@
+feedparser
+Pillow
+edge-tts
+python-dotenv
+requests
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
